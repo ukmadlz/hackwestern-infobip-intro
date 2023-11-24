@@ -388,10 +388,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal #bio .column {
   float: left;
   width: 50%;
-  text-align: left;
-}
-.reveal #bio .column img {
-  width: 50%;
+  text-align: center;
 }
 .reveal #bio h1 {
   color: #0C1B2C;
